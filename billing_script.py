@@ -88,5 +88,5 @@ def update_bill(customer, bill_id):
 
 
 create_new_bill('Customer Name')
-update_bill('Customer Name', put port_id here)
+update_bill('Customer Name', put bill_id here)
 create_csv('Customer Name')
