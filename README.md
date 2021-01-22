@@ -3,7 +3,7 @@ You must edit the script before you use so that you have a functioning API token
 
 The are 3 different choices one have to create different things, either it's a new bill, update a bill or export ports to a csv file.
  
-To create a new bill just enter your customers name. This will prompt you for settings for the bill and create the bill but it will also give you the bills ID.
+To create a new bill just enter your customers name. This will prompt you for settings for the bill and create the bill but it will also give you the bills ID. This script will only created a CDR bill
 To update a bill you will enter your customers name for the collection of their ports and also the bill ID that you want update.
 The CSV export is still under development but for now it will export all the ports that are related to a customer to a predefined file of your choosing. 
 
